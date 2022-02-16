@@ -1,0 +1,1055 @@
+{
+    "headaches": {
+        "cui": "C0018681",
+        "have_had": {
+            "migraine": {
+                "cui": [
+                    "C0149931"
+                ],
+                "score": 1.56872264,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 71,
+                "ncts": [
+                    "NCT00298805",
+                    "NCT00212810",
+                    "NCT04182659",
+                    "NCT01917474",
+                    "NCT04352218",
+                    "NCT03280342",
+                    "NCT01581281",
+                    "NCT01172405",
+                    "NCT03185130",
+                    "NCT00231595",
+                    "NCT02697071",
+                    "NCT01545466",
+                    "NCT04287140",
+                    "NCT02742272",
+                    "NCT03472872",
+                    "NCT01687101",
+                    "NCT04529356",
+                    "NCT01726920",
+                    "NCT02655523",
+                    "NCT01946126",
+                    "NCT00210821",
+                    "NCT03886012",
+                    "NCT00297375",
+                    "NCT01736774",
+                    "NCT04012047",
+                    "NCT01213056",
+                    "NCT01513291",
+                    "NCT01667679",
+                    "NCT00732108",
+                    "NCT04284501",
+                    "NCT01357798",
+                    "NCT00261469",
+                    "NCT02357381",
+                    "NCT00298142",
+                    "NCT01216358",
+                    "NCT02518464",
+                    "NCT04138316",
+                    "NCT03030794",
+                    "NCT00510172",
+                    "NCT02747511",
+                    "NCT02735343",
+                    "NCT03166358",
+                    "NCT01976611",
+                    "NCT04218487",
+                    "NCT00018811",
+                    "NCT00600717",
+                    "NCT01073787",
+                    "NCT01618201",
+                    "NCT00969995",
+                    "NCT01896167",
+                    "NCT00236561",
+                    "NCT03472092",
+                    "NCT01854580",
+                    "NCT02953015",
+                    "NCT03183791",
+                    "NCT02473692",
+                    "NCT02866084",
+                    "NCT04509141",
+                    "NCT00564408",
+                    "NCT04151576",
+                    "NCT03789370",
+                    "NCT01338701",
+                    "NCT02403687",
+                    "NCT00236509",
+                    "NCT01390324",
+                    "NCT02709369",
+                    "NCT00155129",
+                    "NCT01184222",
+                    "NCT00272896",
+                    "NCT02266329",
+                    "NCT01687660"
+                ]
+            },
+            "tension headache": {
+                "cui": [
+                    "C0033893",
+                    "C0723643"
+                ],
+                "score": 0.53239428,
+                "label_semantic_types": "disease or syndrome|pharmacologic substance|organic chemical",
+                "label_ncts_counts": 17,
+                "ncts": [
+                    "NCT01854580",
+                    "NCT01182051",
+                    "NCT01011673",
+                    "NCT00298142",
+                    "NCT02887638",
+                    "NCT03472872",
+                    "NCT04352218",
+                    "NCT01464983",
+                    "NCT01736774",
+                    "NCT04218487",
+                    "NCT00018811",
+                    "NCT01172405",
+                    "NCT04091555",
+                    "NCT01552798",
+                    "NCT01618201",
+                    "NCT00969995",
+                    "NCT03166358"
+                ]
+            },
+            "headache disorder": {
+                "cui": [
+                    "C0393735"
+                ],
+                "score": 0.44287132,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 21,
+                "ncts": [
+                    "NCT00159588",
+                    "NCT00298142",
+                    "NCT00852748",
+                    "NCT00862095",
+                    "NCT01073787",
+                    "NCT01357798",
+                    "NCT01545466",
+                    "NCT01581281",
+                    "NCT01667679",
+                    "NCT01687660",
+                    "NCT02473692",
+                    "NCT02697071",
+                    "NCT02734992",
+                    "NCT03081416",
+                    "NCT03166358",
+                    "NCT03183791",
+                    "NCT03472092",
+                    "NCT04138316",
+                    "NCT04222244",
+                    "NCT04287140",
+                    "NCT04352218"
+                ]
+            },
+            "chronic headaches": {
+                "cui": [
+                    "C0151293"
+                ],
+                "score": 0.40707229999999994,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 14,
+                "ncts": [
+                    "NCT00389038",
+                    "NCT00853138",
+                    "NCT00956969",
+                    "NCT01182051",
+                    "NCT01213056",
+                    "NCT01332864",
+                    "NCT01664585",
+                    "NCT02440997",
+                    "NCT02467127",
+                    "NCT02475005",
+                    "NCT03790124",
+                    "NCT04284501",
+                    "NCT04339335",
+                    "NCT04352218"
+                ]
+            },
+            "tension": {
+                "cui": [
+                    "C0233494"
+                ],
+                "score": 0.142617816,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 18,
+                "ncts": [
+                    "NCT01854580",
+                    "NCT01182051",
+                    "NCT01011673",
+                    "NCT00298142",
+                    "NCT02887638",
+                    "NCT03472872",
+                    "NCT04352218",
+                    "NCT01464983",
+                    "NCT01736774",
+                    "NCT04218487",
+                    "NCT01338701",
+                    "NCT00018811",
+                    "NCT01172405",
+                    "NCT04091555",
+                    "NCT01552798",
+                    "NCT01618201",
+                    "NCT00969995",
+                    "NCT03166358"
+                ]
+            },
+            "daily headache": {
+                "cui": [
+                    "C3661947"
+                ],
+                "score": 0.30566666,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 9,
+                "ncts": [
+                    "NCT03472092",
+                    "NCT01182051",
+                    "NCT00389038",
+                    "NCT02518464",
+                    "NCT00212810",
+                    "NCT01338701",
+                    "NCT04051203",
+                    "NCT02440997",
+                    "NCT00135122"
+                ]
+            },
+            "neck pain": {
+                "cui": [
+                    "C0007859"
+                ],
+                "score": 0.30329755999999997,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 13,
+                "ncts": [
+                    "NCT00298142",
+                    "NCT00457496",
+                    "NCT01054378",
+                    "NCT01736774",
+                    "NCT01745705",
+                    "NCT03606707",
+                    "NCT03852355",
+                    "NCT03869710",
+                    "NCT04169646",
+                    "NCT04222244",
+                    "NCT04305223",
+                    "NCT04401501",
+                    "NCT04490798"
+                ]
+            },
+            "post-dural puncture headache": {
+                "cui": [
+                    "C0751188"
+                ],
+                "score": 0.22003722,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT02122419",
+                    "NCT02760862",
+                    "NCT02962427",
+                    "NCT03156049",
+                    "NCT03790124"
+                ]
+            },
+            "cervicogenic headache": {
+                "cui": [
+                    "C0458101"
+                ],
+                "score": 0.21520752,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 7,
+                "ncts": [
+                    "NCT00298142",
+                    "NCT01736774",
+                    "NCT02655523",
+                    "NCT02887638",
+                    "NCT03385889",
+                    "NCT04305223",
+                    "NCT04401501"
+                ]
+            },
+            "angina pectoris": {
+                "cui": [
+                    "C0002962"
+                ],
+                "score": 0.19839494,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00958776",
+                    "NCT04218487"
+                ]
+            },
+            "cerebral blood flow": {
+                "cui": [
+                    "C0373440"
+                ],
+                "score": 0.057953382,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 6,
+                "ncts": [
+                    "NCT00357864",
+                    "NCT00374530",
+                    "NCT00564408",
+                    "NCT01637662",
+                    "NCT01750723",
+                    "NCT01896167"
+                ]
+            },
+            "hypertension": {
+                "cui": [
+                    "C0020538"
+                ],
+                "score": 0.18581853999999998,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT00067249",
+                    "NCT03373292",
+                    "NCT03660618",
+                    "NCT03767803"
+                ]
+            },
+            "shoulder pain": {
+                "cui": [
+                    "C0037011"
+                ],
+                "score": 0.1531486,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01054378",
+                    "NCT04490798"
+                ]
+            },
+            "headache occurring": {
+                "cui": [
+                    "C0857361"
+                ],
+                "score": 0.14637538,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT01184222",
+                    "NCT01664585",
+                    "NCT03385889",
+                    "NCT04051203",
+                    "NCT04138316"
+                ]
+            },
+            "chronic pain": {
+                "cui": [
+                    "C0150055"
+                ],
+                "score": 0.14345208,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 12,
+                "ncts": [
+                    "NCT00853138",
+                    "NCT01213056",
+                    "NCT01316471",
+                    "NCT01496378",
+                    "NCT01591980",
+                    "NCT01974791",
+                    "NCT02709369",
+                    "NCT02734992",
+                    "NCT03166358",
+                    "NCT03691272",
+                    "NCT04043962",
+                    "NCT04490798"
+                ]
+            },
+            "fasting": {
+                "cui": [
+                    "C0015663"
+                ],
+                "score": 0.06451449299999999,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00263094",
+                    "NCT00752921",
+                    "NCT01148303",
+                    "NCT02113111",
+                    "NCT03429738"
+                ]
+            },
+            "episodic tension-type headache": {
+                "cui": [
+                    "C0393737"
+                ],
+                "score": 0.1417177,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01011673",
+                    "NCT01464983"
+                ]
+            },
+            "heart failure": {
+                "cui": [
+                    "C0018801"
+                ],
+                "score": 0.13026766,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT00958776",
+                    "NCT03660618",
+                    "NCT04287140"
+                ]
+            },
+            "vasodilatation": {
+                "cui": [
+                    "C0595862"
+                ],
+                "score": 0.044165394,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT00510172",
+                    "NCT00564408",
+                    "NCT03585894"
+                ]
+            },
+            "chronic obstructive pulmonary disease (copd)": {
+                "cui": [
+                    "C0024117"
+                ],
+                "score": 0.1197777,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 0,
+                "ncts": []
+            },
+            "acupuncture": {
+                "cui": [
+                    "C0394664"
+                ],
+                "score": 0.053009684999999994,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT01338701",
+                    "NCT01687660",
+                    "NCT03426800",
+                    "NCT04490798",
+                    "NCT04509141"
+                ]
+            },
+            "range of motion": {
+                "cui": [
+                    "C0150220"
+                ],
+                "score": 0.051894468,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT02953015",
+                    "NCT03385889",
+                    "NCT04222244",
+                    "NCT04305223"
+                ]
+            },
+            "acute headache": {
+                "cui": [
+                    "C0744633"
+                ],
+                "score": 0.11390712,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00632606",
+                    "NCT02268058",
+                    "NCT03066622",
+                    "NCT03081416",
+                    "NCT03951649"
+                ]
+            },
+            "manual therapy": {
+                "cui": [
+                    "C0454525"
+                ],
+                "score": 0.048806136,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00298142",
+                    "NCT02422862",
+                    "NCT02953015",
+                    "NCT03385889",
+                    "NCT04401501"
+                ]
+            },
+            "arthralgia": {
+                "cui": [
+                    "C0003862"
+                ],
+                "score": 0.1073935,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00067249",
+                    "NCT02758990",
+                    "NCT02947022",
+                    "NCT03030794",
+                    "NCT04182659"
+                ]
+            },
+            "back pain": {
+                "cui": [
+                    "C0004604"
+                ],
+                "score": 0.10049294,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 8,
+                "ncts": [
+                    "NCT01687101",
+                    "NCT02887638",
+                    "NCT00450060",
+                    "NCT01321190",
+                    "NCT01974791",
+                    "NCT01808664",
+                    "NCT04490798",
+                    "NCT00067249"
+                ]
+            },
+            "nasal congestion": {
+                "cui": [
+                    "C0027424"
+                ],
+                "score": 0.09804998000000001,
+                "label_semantic_types": "sign or symptom|pathologic function",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT00378144",
+                    "NCT00957996",
+                    "NCT00958776"
+                ]
+            },
+            "depression": {
+                "cui": [
+                    "C0011570"
+                ],
+                "score": 0.09199687999999999,
+                "label_semantic_types": "sign or symptom|mental or behavioral dysfunction",
+                "label_ncts_counts": 11,
+                "ncts": [
+                    "NCT00067249",
+                    "NCT01213056",
+                    "NCT01854580",
+                    "NCT02709369",
+                    "NCT03308630",
+                    "NCT03660618",
+                    "NCT03783312",
+                    "NCT04182659",
+                    "NCT04183842",
+                    "NCT04218487",
+                    "NCT04529356"
+                ]
+            },
+            "rotation test": {
+                "cui": [
+                    "C0178091"
+                ],
+                "score": 0.026834171999999996,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT04222244",
+                    "NCT04401501"
+                ]
+            },
+            "loss of memory": {
+                "cui": [
+                    "C0002622"
+                ],
+                "score": 0.08440522,
+                "label_semantic_types": "sign or symptom|mental or behavioral dysfunction",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01194661",
+                    "NCT02266329"
+                ]
+            },
+            "mbsr": {
+                "cui": [
+                    "C4527300"
+                ],
+                "score": 0.035804088,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01213056",
+                    "NCT01545466"
+                ]
+            },
+            "anxiety": {
+                "cui": [
+                    "C0003467"
+                ],
+                "score": 0.0775495,
+                "label_semantic_types": "sign or symptom|mental or behavioral dysfunction",
+                "label_ncts_counts": 10,
+                "ncts": [
+                    "NCT00726843",
+                    "NCT01182051",
+                    "NCT02266329",
+                    "NCT02440997",
+                    "NCT02709369",
+                    "NCT02735343",
+                    "NCT03308630",
+                    "NCT03660618",
+                    "NCT04183842",
+                    "NCT04284501"
+                ]
+            },
+            "disoriented": {
+                "cui": [
+                    "C0233407"
+                ],
+                "score": 0.07091582,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01194661",
+                    "NCT02266329"
+                ]
+            },
+            "substance abuse": {
+                "cui": [
+                    "C0740858"
+                ],
+                "score": 0.030689388,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02709369",
+                    "NCT03163901"
+                ]
+            },
+            "5 minutes": {
+                "cui": [
+                    "C0886384"
+                ],
+                "score": 0.030476565,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00958776",
+                    "NCT04220580"
+                ]
+            },
+            "medical therapy": {
+                "cui": [
+                    "C0418981"
+                ],
+                "score": 0.029100195,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT00580307",
+                    "NCT00862095",
+                    "NCT04352218"
+                ]
+            },
+            "nausea": {
+                "cui": [
+                    "C0027497"
+                ],
+                "score": 0.0606452,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00990574",
+                    "NCT01464983",
+                    "NCT02735343",
+                    "NCT03886012",
+                    "NCT04183842"
+                ]
+            },
+            "electrical stimulation": {
+                "cui": [
+                    "C0013786"
+                ],
+                "score": 0.026549136,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01000389",
+                    "NCT01184222"
+                ]
+            },
+            "craniotomy": {
+                "cui": [
+                    "C0010280"
+                ],
+                "score": 0.026011053000000003,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT01591980",
+                    "NCT01806155",
+                    "NCT02866409"
+                ]
+            },
+            "post concussion syndrome": {
+                "cui": [
+                    "C0546983"
+                ],
+                "score": 0.056312640000000004,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT01194661",
+                    "NCT03691272",
+                    "NCT00862095",
+                    "NCT02268058",
+                    "NCT02266329"
+                ]
+            }
+        },
+        "looking_for": {
+            "peramivir": {
+                "cui": [
+                    "C1675326"
+                ],
+                "score": 0.07466334,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00957996",
+                    "NCT00958776"
+                ]
+            },
+            "topiramate": {
+                "cui": [
+                    "C0519827",
+                    "C0076829"
+                ],
+                "score": 0.07178653,
+                "label_semantic_types": "pharmacologic substance|organic chemical|laboratory procedure",
+                "label_ncts_counts": 11,
+                "ncts": [
+                    "NCT00210821",
+                    "NCT00212810",
+                    "NCT00231595",
+                    "NCT00236509",
+                    "NCT00236561",
+                    "NCT00261469",
+                    "NCT00732108",
+                    "NCT00862095",
+                    "NCT01581281",
+                    "NCT02403687",
+                    "NCT03280342"
+                ]
+            },
+            "pressor": {
+                "cui": [
+                    "C0237795"
+                ],
+                "score": 0.068438,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT04217616",
+                    "NCT04220580"
+                ]
+            },
+            "bupivacaine": {
+                "cui": [
+                    "C0006400"
+                ],
+                "score": 0.06743552,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT01939314",
+                    "NCT02403687",
+                    "NCT02655523",
+                    "NCT02866409",
+                    "NCT03951649"
+                ]
+            },
+            "propofol": {
+                "cui": [
+                    "C0033487"
+                ],
+                "score": 0.06106813,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT03513757",
+                    "NCT03789370"
+                ]
+            },
+            "essential oil": {
+                "cui": [
+                    "C0028910"
+                ],
+                "score": 0.048308022,
+                "label_semantic_types": "organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02440997",
+                    "NCT04151576"
+                ]
+            },
+            "diphenhydramine": {
+                "cui": [
+                    "C0012522"
+                ],
+                "score": 0.05128507,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT02295280",
+                    "NCT02657031",
+                    "NCT02735343",
+                    "NCT03185130",
+                    "NCT03472872"
+                ]
+            },
+            "triptans": {
+                "cui": [
+                    "C1567966"
+                ],
+                "score": 0.04661928,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT00261469",
+                    "NCT00632606",
+                    "NCT02473692",
+                    "NCT03185130"
+                ]
+            },
+            "amitriptyline": {
+                "cui": [
+                    "C0202316",
+                    "C0002600"
+                ],
+                "score": 0.044043830000000006,
+                "label_semantic_types": "pharmacologic substance|organic chemical|laboratory procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00210821",
+                    "NCT00389038",
+                    "NCT00862095",
+                    "NCT01581281",
+                    "NCT03472092"
+                ]
+            },
+            "carbon dioxide": {
+                "cui": [
+                    "C0201930",
+                    "C0007012"
+                ],
+                "score": 0.038579283,
+                "label_semantic_types": "biologically active substance|laboratory procedure|injury or poisoning",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00484029",
+                    "NCT00856232"
+                ]
+            },
+            "ibuprofen": {
+                "cui": [
+                    "C0020740"
+                ],
+                "score": 0.03675387,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 9,
+                "ncts": [
+                    "NCT00778609",
+                    "NCT01073787",
+                    "NCT01172405",
+                    "NCT01464983",
+                    "NCT02268058",
+                    "NCT02473692",
+                    "NCT02638506",
+                    "NCT03429738",
+                    "NCT03783312"
+                ]
+            },
+            "ketorolac": {
+                "cui": [
+                    "C0073631"
+                ],
+                "score": 0.03631487,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT01011673",
+                    "NCT03081416",
+                    "NCT03472872",
+                    "NCT03585894"
+                ]
+            },
+            "steroidal anti-inflammatory drugs": {
+                "cui": [
+                    "C0003212"
+                ],
+                "score": 0.03459045,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02403687",
+                    "NCT04529356"
+                ]
+            },
+            "metoclopramide": {
+                "cui": [
+                    "C0025853"
+                ],
+                "score": 0.03453815,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT00632606",
+                    "NCT01011673",
+                    "NCT02295280",
+                    "NCT03081416"
+                ]
+            },
+            "dexmedetomidine": {
+                "cui": [
+                    "C0113293"
+                ],
+                "score": 0.02569262,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02866409",
+                    "NCT03513757"
+                ]
+            },
+            "ketamine": {
+                "cui": [
+                    "C0022614"
+                ],
+                "score": 0.02334601,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT02403687",
+                    "NCT02657031",
+                    "NCT02697071",
+                    "NCT02735343",
+                    "NCT03081416"
+                ]
+            },
+            "compazine": {
+                "cui": [
+                    "C0701017"
+                ],
+                "score": 0.02237798,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02657031",
+                    "NCT02735343"
+                ]
+            },
+            "botulinum toxin type a": {
+                "cui": [
+                    "C0006050"
+                ],
+                "score": 0.02206267,
+                "label_semantic_types": "pharmacologic substance|hazardous or poisonous substance",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT01357798",
+                    "NCT01976611",
+                    "NCT03223298"
+                ]
+            },
+            "sumatriptan": {
+                "cui": [
+                    "C0075632"
+                ],
+                "score": 0.020486860000000003,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT01667679",
+                    "NCT02403687",
+                    "NCT03585894"
+                ]
+            },
+            "antidepressant": {
+                "cui": [
+                    "C0003289"
+                ],
+                "score": 0.01971176,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00210821",
+                    "NCT01504750"
+                ]
+            },
+            "carbachol": {
+                "cui": [
+                    "C0006945"
+                ],
+                "score": 0.01717619,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00357864",
+                    "NCT00564408"
+                ]
+            },
+            "prostacyclin": {
+                "cui": [
+                    "C0033567"
+                ],
+                "score": 0.01419185,
+                "label_semantic_types": "pharmacologic substance|organic chemical|biologically active substance",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00291395",
+                    "NCT00510172"
+                ]
+            },
+            "lidocaine": {
+                "cui": [
+                    "C0202404",
+                    "C0023660"
+                ],
+                "score": 0.01184667,
+                "label_semantic_types": "pharmacologic substance|organic chemical|laboratory procedure",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT02403687",
+                    "NCT03513757",
+                    "NCT04051203"
+                ]
+            },
+            "propranolol": {
+                "cui": [
+                    "C0033497"
+                ],
+                "score": 0.00565223,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00236561",
+                    "NCT00862095"
+                ]
+            },
+            "mediators": {
+                "cui": [
+                    "C0127400"
+                ],
+                "score": 0.0023967800000000003,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00990574",
+                    "NCT03166358"
+                ]
+            }
+        }
+    }
+}

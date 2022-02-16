@@ -1,0 +1,645 @@
+{
+    "dyslexia": {
+        "cui": "C0476254",
+        "have_had": {
+            "developmental dyslexia": {
+                "cui": [
+                    "C0920296"
+                ],
+                "score": 0.32495832,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 14,
+                "ncts": [
+                    "NCT00068835",
+                    "NCT00245804",
+                    "NCT00254644",
+                    "NCT02217696",
+                    "NCT02393729",
+                    "NCT02622360",
+                    "NCT02791841",
+                    "NCT03448237",
+                    "NCT04028310",
+                    "NCT04157829",
+                    "NCT04287530",
+                    "NCT04382482",
+                    "NCT04384718",
+                    "NCT04384952"
+                ]
+            },
+            "reading disorder": {
+                "cui": [
+                    "C0037789"
+                ],
+                "score": 0.152324406,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 8,
+                "ncts": [
+                    "NCT00068835",
+                    "NCT00191906",
+                    "NCT00245804",
+                    "NCT01860027",
+                    "NCT02316873",
+                    "NCT04287530",
+                    "NCT04382482",
+                    "NCT04384718"
+                ]
+            },
+            "learning disorder": {
+                "cui": [
+                    "C0023186"
+                ],
+                "score": 0.134260362,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 7,
+                "ncts": [
+                    "NCT04382482",
+                    "NCT04157829",
+                    "NCT02217696",
+                    "NCT03364010",
+                    "NCT04287530",
+                    "NCT02393729",
+                    "NCT04384718"
+                ]
+            },
+            "learning disability": {
+                "cui": [
+                    "C0751265"
+                ],
+                "score": 0.133514928,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 9,
+                "ncts": [
+                    "NCT00245804",
+                    "NCT00254644",
+                    "NCT01860027",
+                    "NCT02964884",
+                    "NCT03364010",
+                    "NCT04122820",
+                    "NCT04323488",
+                    "NCT04384952",
+                    "NCT04386161"
+                ]
+            },
+            "reading disabilities": {
+                "cui": [
+                    "C0871215"
+                ],
+                "score": 0.10695737699999999,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00061412",
+                    "NCT00065832",
+                    "NCT01860027",
+                    "NCT02964884",
+                    "NCT04059939"
+                ]
+            },
+            "deficit": {
+                "cui": [
+                    "C4761312"
+                ],
+                "score": 0.23418548,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 13,
+                "ncts": [
+                    "NCT00254644",
+                    "NCT04277351",
+                    "NCT04384952",
+                    "NCT02872870",
+                    "NCT01860027",
+                    "NCT01012778",
+                    "NCT00607919",
+                    "NCT02217696",
+                    "NCT03364010",
+                    "NCT04287530",
+                    "NCT00245804",
+                    "NCT00191906",
+                    "NCT03285789"
+                ]
+            },
+            "spina bifida": {
+                "cui": [
+                    "C0080178"
+                ],
+                "score": 0.056321569999999994,
+                "label_semantic_types": "congenital abnormality",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02964884",
+                    "NCT04386161"
+                ]
+            },
+            "speech therapy": {
+                "cui": [
+                    "C0009460"
+                ],
+                "score": 0.047969837999999994,
+                "label_semantic_types": "mental or behavioral dysfunction|therapeutic or preventive procedure",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT00818428",
+                    "NCT02345876",
+                    "NCT03448237",
+                    "NCT04384952"
+                ]
+            },
+            "electroencephalogram": {
+                "cui": [
+                    "C0013819"
+                ],
+                "score": 0.026412227999999996,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02872870"
+                ]
+            },
+            "procedural learning": {
+                "cui": [
+                    "C4304298"
+                ],
+                "score": 0.031049991,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02393729"
+                ]
+            },
+            "visual impairment": {
+                "cui": [
+                    "C0042798"
+                ],
+                "score": 0.06779668,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "neuropsychological test": {
+                "cui": [
+                    "C0027902"
+                ],
+                "score": 0.020328432,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT02393729",
+                    "NCT02622360"
+                ]
+            },
+            "rehabilitation treatment": {
+                "cui": [
+                    "C0034991"
+                ],
+                "score": 0.027604134,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT02345876",
+                    "NCT04287530",
+                    "NCT04382482",
+                    "NCT04384718"
+                ]
+            },
+            "physical disability": {
+                "cui": [
+                    "C0520817"
+                ],
+                "score": 0.021056847,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04250701"
+                ]
+            },
+            "attention deficit hyperactivity disorder": {
+                "cui": [
+                    "C1263846"
+                ],
+                "score": 0.026965224,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 8,
+                "ncts": [
+                    "NCT02964884",
+                    "NCT00716274",
+                    "NCT04250701",
+                    "NCT01012778",
+                    "NCT00607919",
+                    "NCT02217696",
+                    "NCT03364010",
+                    "NCT00191906"
+                ]
+            },
+            "ganglion": {
+                "cui": [
+                    "C0085648"
+                ],
+                "score": 0.0586111,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            },
+            "auditory processing disorders": {
+                "cui": [
+                    "C0004310"
+                ],
+                "score": 0.026073324,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02345876"
+                ]
+            },
+            "adjustment disorder": {
+                "cui": [
+                    "C0001546"
+                ],
+                "score": 0.022478175000000003,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "tenderness": {
+                "cui": [
+                    "C0234233"
+                ],
+                "score": 0.04703466,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "dysgraphia": {
+                "cui": [
+                    "C0234144"
+                ],
+                "score": 0.020797434000000004,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04250701"
+                ]
+            },
+            "functional magnetic resonance imaging": {
+                "cui": [
+                    "C0376335"
+                ],
+                "score": 0.012902694,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT00068835",
+                    "NCT00254644",
+                    "NCT00716274",
+                    "NCT02393729"
+                ]
+            },
+            "mental retardation": {
+                "cui": [
+                    "C0025362"
+                ],
+                "score": 0.019184022,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02393729"
+                ]
+            },
+            "kidney failure": {
+                "cui": [
+                    "C0035078"
+                ],
+                "score": 0.041592779999999996,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "cognitive assessment": {
+                "cui": [
+                    "C0870300"
+                ],
+                "score": 0.012472854,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03906097"
+                ]
+            },
+            "language disorders": {
+                "cui": [
+                    "C0023015"
+                ],
+                "score": 0.016802262,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02872870"
+                ]
+            },
+            "deficiency": {
+                "cui": [
+                    "C0162429"
+                ],
+                "score": 0.0371336,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "muscle damage": {
+                "cui": [
+                    "C0410158"
+                ],
+                "score": 0.01827421,
+                "label_semantic_types": "acquired abnormality",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "agraphia": {
+                "cui": [
+                    "C0001825"
+                ],
+                "score": 0.015874497,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03662243"
+                ]
+            },
+            "motion sickness": {
+                "cui": [
+                    "C0026603",
+                    "C0721797"
+                ],
+                "score": 0.03444684,
+                "label_semantic_types": "disease or syndrome|pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02879786"
+                ]
+            },
+            "optic gliomas": {
+                "cui": [
+                    "C0346326"
+                ],
+                "score": 0.010086,
+                "label_semantic_types": "neoplastic process",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "organic disease": {
+                "cui": [
+                    "C0683324"
+                ],
+                "score": 0.029802919999999997,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01860027"
+                ]
+            },
+            "mri study": {
+                "cui": [
+                    "C3515983"
+                ],
+                "score": 0.008361936,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02393729"
+                ]
+            },
+            "mild depression": {
+                "cui": [
+                    "C0588006"
+                ],
+                "score": 0.011151306,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "psychiatric disorder": {
+                "cui": [
+                    "C0004936"
+                ],
+                "score": 0.010979748,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT00607919",
+                    "NCT02107534",
+                    "NCT02217696",
+                    "NCT02393729",
+                    "NCT02964884"
+                ]
+            },
+            "electrophysiological studies": {
+                "cui": [
+                    "C0850293"
+                ],
+                "score": 0.006299268,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02872870"
+                ]
+            },
+            "oppositional defiant disorder": {
+                "cui": [
+                    "C0029121"
+                ],
+                "score": 0.00931545,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "sensitization": {
+                "cui": [
+                    "C3839736"
+                ],
+                "score": 0.02010504,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02107534"
+                ]
+            },
+            "alexia": {
+                "cui": [
+                    "C0002018"
+                ],
+                "score": 0.008729190000000001,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03662243"
+                ]
+            },
+            "reading problem": {
+                "cui": [
+                    "C1442921"
+                ],
+                "score": 0.008658576,
+                "label_semantic_types": "mental or behavioral dysfunction",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03285789"
+                ]
+            },
+            "anxiety": {
+                "cui": [
+                    "C0003467"
+                ],
+                "score": 0.017061319999999998,
+                "label_semantic_types": "sign or symptom|mental or behavioral dysfunction",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT04059939",
+                    "NCT02107534"
+                ]
+            }
+        },
+        "looking_for": {
+            "arachidonic acid": {
+                "cui": [
+                    "C2316832",
+                    "C0003695"
+                ],
+                "score": 0.035538443999999995,
+                "label_semantic_types": "organic chemical|laboratory procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            },
+            "dopaminergic": {
+                "cui": [
+                    "C0282151"
+                ],
+                "score": 0.02918874,
+                "label_semantic_types": "pharmacologic substance|biologically active substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00111371"
+                ]
+            },
+            "pufas": {
+                "cui": [
+                    "C0032615"
+                ],
+                "score": 0.018512901,
+                "label_semantic_types": "biologically active substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            },
+            "lovastatin 20 mg": {
+                "cui": [
+                    "C0987282"
+                ],
+                "score": 0.030448513,
+                "label_semantic_types": "clinical drug",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "fatty acids": {
+                "cui": [
+                    "C0015684"
+                ],
+                "score": 0.015285609,
+                "label_semantic_types": "organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            },
+            "psychotropic": {
+                "cui": [
+                    "C0033978"
+                ],
+                "score": 0.006091,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "lovastatin": {
+                "cui": [
+                    "C0024027"
+                ],
+                "score": 0.00493855,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "blood sugar": {
+                "cui": [
+                    "C0005802"
+                ],
+                "score": 0.004347,
+                "label_semantic_types": "organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "docosahexaenoic acid": {
+                "cui": [
+                    "C0012968"
+                ],
+                "score": 0.00138751,
+                "label_semantic_types": "pharmacologic substance|biologically active substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            },
+            "stimulant": {
+                "cui": [
+                    "C0002763"
+                ],
+                "score": 0.00107959,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02964884"
+                ]
+            },
+            "retinal": {
+                "cui": [
+                    "C0035331"
+                ],
+                "score": 0.00068955,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04287530"
+                ]
+            }
+        }
+    }
+}

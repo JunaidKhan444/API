@@ -1,0 +1,762 @@
+{
+    "aneurysm": {
+        "cui": "C0002940",
+        "have_had": {
+            "intracranial aneurysm": {
+                "cui": [
+                    "C0007766"
+                ],
+                "score": 0.60499086,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 19,
+                "ncts": [
+                    "NCT00029133",
+                    "NCT00288405",
+                    "NCT01101347",
+                    "NCT01323439",
+                    "NCT01420991",
+                    "NCT01503775",
+                    "NCT01840761",
+                    "NCT02037932",
+                    "NCT02390037",
+                    "NCT02607501",
+                    "NCT02848612",
+                    "NCT03145701",
+                    "NCT03359252",
+                    "NCT03496415",
+                    "NCT03642639",
+                    "NCT04155606",
+                    "NCT04305626",
+                    "NCT04380350",
+                    "NCT04499508"
+                ]
+            },
+            "aortic aneurysm": {
+                "cui": [
+                    "C0003486"
+                ],
+                "score": 0.24456716,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 11,
+                "ncts": [
+                    "NCT00538421",
+                    "NCT03484013",
+                    "NCT04224675",
+                    "NCT03165279",
+                    "NCT01420991",
+                    "NCT01526811",
+                    "NCT01094938",
+                    "NCT01670903",
+                    "NCT01234610",
+                    "NCT01756833",
+                    "NCT04269447"
+                ]
+            },
+            "stroke": {
+                "cui": [
+                    "C0038454"
+                ],
+                "score": 0.1778697,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT01343537",
+                    "NCT00905931",
+                    "NCT01420991",
+                    "NCT01840761",
+                    "NCT02638701"
+                ]
+            },
+            "aneurysm repair": {
+                "cui": [
+                    "C0189661"
+                ],
+                "score": 0.072217224,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT03165279",
+                    "NCT03061487",
+                    "NCT03499431",
+                    "NCT02372214",
+                    "NCT01970605"
+                ]
+            },
+            "ruptured aneurysm": {
+                "cui": [
+                    "C0162869"
+                ],
+                "score": 0.13714636,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 6,
+                "ncts": [
+                    "NCT03642639",
+                    "NCT01343537",
+                    "NCT01420991",
+                    "NCT00549380",
+                    "NCT00282893",
+                    "NCT01503775"
+                ]
+            },
+            "aneurysmectomy": {
+                "cui": [
+                    "C0189598"
+                ],
+                "score": 0.060320925000000004,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03061487"
+                ]
+            },
+            "invasive treatment": {
+                "cui": [
+                    "C0683468"
+                ],
+                "score": 0.047604384,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01756833",
+                    "NCT02638701"
+                ]
+            },
+            "cerebral aneurysm": {
+                "cui": [
+                    "C0917996"
+                ],
+                "score": 0.09109880000000001,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT01840761",
+                    "NCT00972790",
+                    "NCT00282893",
+                    "NCT02167997"
+                ]
+            },
+            "burning": {
+                "cui": [
+                    "C0085624"
+                ],
+                "score": 0.0832173,
+                "label_semantic_types": "sign or symptom",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01343537"
+                ]
+            },
+            "ct scan": {
+                "cui": [
+                    "C0040405"
+                ],
+                "score": 0.023152062,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01756833"
+                ]
+            },
+            "brain aneurysm": {
+                "cui": [
+                    "C0751003"
+                ],
+                "score": 0.0765449,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT01840761",
+                    "NCT02878967",
+                    "NCT03140020",
+                    "NCT03496415"
+                ]
+            },
+            "subclinical status epilepticus": {
+                "cui": [
+                    "C0751522"
+                ],
+                "score": 0.07008596,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01343537"
+                ]
+            },
+            "skin lesions": {
+                "cui": [
+                    "C0037284"
+                ],
+                "score": 0.06875397999999999,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04246125"
+                ]
+            },
+            "artery diseases": {
+                "cui": [
+                    "C0852949"
+                ],
+                "score": 0.06731492,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01178710"
+                ]
+            },
+            "surgical reconstruction": {
+                "cui": [
+                    "C0524865"
+                ],
+                "score": 0.027284922,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01970605"
+                ]
+            },
+            "cerebral infarction": {
+                "cui": [
+                    "C0007785"
+                ],
+                "score": 0.05843216,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01840761"
+                ]
+            },
+            "aortic rupture": {
+                "cui": [
+                    "C0003496"
+                ],
+                "score": 0.05776646,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04224675"
+                ]
+            },
+            "graft failure": {
+                "cui": [
+                    "C1262018"
+                ],
+                "score": 0.018892811,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01970605"
+                ]
+            },
+            "neurovascular disorder": {
+                "cui": [
+                    "C3898144"
+                ],
+                "score": 0.05235244,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT04305626",
+                    "NCT04305704"
+                ]
+            },
+            "vasospasm": {
+                "cui": [
+                    "C0085616"
+                ],
+                "score": 0.018189332000000002,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 4,
+                "ncts": [
+                    "NCT01840761",
+                    "NCT00905931",
+                    "NCT01343537",
+                    "NCT00282893"
+                ]
+            },
+            "cerebral angiography": {
+                "cui": [
+                    "C0007767"
+                ],
+                "score": 0.015331344,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03145701"
+                ]
+            },
+            "q-fever": {
+                "cui": [
+                    "C0034362"
+                ],
+                "score": 0.04912634,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01450501"
+                ]
+            },
+            "neurological monitoring": {
+                "cui": [
+                    "C0150281"
+                ],
+                "score": 0.020053737,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01343537"
+                ]
+            },
+            "subarachnoid hemorrhage": {
+                "cui": [
+                    "C0038525"
+                ],
+                "score": 0.039726939999999995,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 7,
+                "ncts": [
+                    "NCT01664520",
+                    "NCT01343537",
+                    "NCT00905931",
+                    "NCT01420991",
+                    "NCT01840761",
+                    "NCT00282893",
+                    "NCT00029133"
+                ]
+            },
+            "embolization procedure": {
+                "cui": [
+                    "C0013931"
+                ],
+                "score": 0.017781345,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02848612"
+                ]
+            },
+            "malignancy": {
+                "cui": [
+                    "C0006826"
+                ],
+                "score": 0.011707014,
+                "label_semantic_types": "neoplastic process",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01970605"
+                ]
+            },
+            "vascular injury": {
+                "cui": [
+                    "C0178324"
+                ],
+                "score": 0.01100277,
+                "label_semantic_types": "injury or poisoning",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00905931"
+                ]
+            },
+            "angiography": {
+                "cui": [
+                    "C0002978"
+                ],
+                "score": 0.010615902,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 5,
+                "ncts": [
+                    "NCT03145701",
+                    "NCT02167997",
+                    "NCT00282893",
+                    "NCT01503775",
+                    "NCT01381952"
+                ]
+            },
+            "heart surgery": {
+                "cui": [
+                    "C0018821"
+                ],
+                "score": 0.015921486,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01178710"
+                ]
+            },
+            "brain mri": {
+                "cui": [
+                    "C4028269"
+                ],
+                "score": 0.010538909999999999,
+                "label_semantic_types": "diagnostic procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03496415"
+                ]
+            },
+            "traditional chinese medicine": {
+                "cui": [
+                    "C1515884"
+                ],
+                "score": 0.014954553,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01840761"
+                ]
+            },
+            "brain surgery": {
+                "cui": [
+                    "C0195775"
+                ],
+                "score": 0.013796010000000001,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00972790"
+                ]
+            },
+            "surgery, skin": {
+                "cui": [
+                    "C3266910"
+                ],
+                "score": 0.013741488000000001,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03073889"
+                ]
+            },
+            "postoperative complications": {
+                "cui": [
+                    "C0032787"
+                ],
+                "score": 0.010492678,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03073889"
+                ]
+            },
+            "thoracotomy": {
+                "cui": [
+                    "C0039991"
+                ],
+                "score": 0.012445101,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00874250"
+                ]
+            },
+            "infected aneurysm": {
+                "cui": [
+                    "C0002950"
+                ],
+                "score": 0.0264319,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01450501"
+                ]
+            },
+            "epileptic": {
+                "cui": [
+                    "C0014544"
+                ],
+                "score": 0.02626488,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00972790"
+                ]
+            },
+            "surgical menopause": {
+                "cui": [
+                    "C0740421"
+                ],
+                "score": 0.022551300000000003,
+                "label_semantic_types": "disease or syndrome",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01756833"
+                ]
+            },
+            "detachment": {
+                "cui": [
+                    "C0595950"
+                ],
+                "score": 0.0075790399999999996,
+                "label_semantic_types": "pathologic function",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04499508"
+                ]
+            },
+            "aortic anastomosis": {
+                "cui": [
+                    "C2609076"
+                ],
+                "score": 0.009631674000000002,
+                "label_semantic_types": "therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01653769"
+                ]
+            }
+        },
+        "looking_for": {
+            "anesthesia": {
+                "cui": [
+                    "C4049933"
+                ],
+                "score": 0.04877802,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00972790",
+                    "NCT03073889"
+                ]
+            },
+            "calcium": {
+                "cui": [
+                    "C0006675",
+                    "C0201925"
+                ],
+                "score": 0.03782179,
+                "label_semantic_types": "pharmacologic substance|biologically active substance|laboratory procedure",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT00874250",
+                    "NCT03285100"
+                ]
+            },
+            "hydroxychloroquine": {
+                "cui": [
+                    "C0020336"
+                ],
+                "score": 0.03249461,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT01450501"
+                ]
+            },
+            "oral anticoagulants": {
+                "cui": [
+                    "C0354604"
+                ],
+                "score": 0.02808298,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03285100"
+                ]
+            },
+            "p2y12 receptor antagonists": {
+                "cui": [
+                    "C2936585"
+                ],
+                "score": 0.02407686,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT04305626",
+                    "NCT04305704"
+                ]
+            },
+            "remifentanil": {
+                "cui": [
+                    "C0246631"
+                ],
+                "score": 0.01898039,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00538421"
+                ]
+            },
+            "atorvastatin": {
+                "cui": [
+                    "C0286651"
+                ],
+                "score": 0.01762199,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03061487"
+                ]
+            },
+            "minocycline": {
+                "cui": [
+                    "C0026187"
+                ],
+                "score": 0.014831856,
+                "label_semantic_types": "organic chemical|antibiotic",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00243893"
+                ]
+            },
+            "collagenase": {
+                "cui": [
+                    "C0162745"
+                ],
+                "score": 0.01418155,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03061487"
+                ]
+            },
+            "gla-protein": {
+                "cui": [
+                    "C0029419"
+                ],
+                "score": 0.011729988,
+                "label_semantic_types": "biologically active substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03285100"
+                ]
+            },
+            "opioid": {
+                "cui": [
+                    "C0242402"
+                ],
+                "score": 0.012003300000000001,
+                "label_semantic_types": "pharmacologic substance|organic chemical|hazardous or poisonous substance",
+                "label_ncts_counts": 3,
+                "ncts": [
+                    "NCT00538421",
+                    "NCT00972790",
+                    "NCT03073889"
+                ]
+            },
+            "hydrogel": {
+                "cui": [
+                    "C0063083"
+                ],
+                "score": 0.009352260000000001,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT02037932"
+                ]
+            },
+            "sevoflurane": {
+                "cui": [
+                    "C0074414"
+                ],
+                "score": 0.00769904,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00538421"
+                ]
+            },
+            "il-10": {
+                "cui": [
+                    "C0085295"
+                ],
+                "score": 0.00765142,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03073889"
+                ]
+            },
+            "aspirin": {
+                "cui": [
+                    "C0004057"
+                ],
+                "score": 0.00758974,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04224675"
+                ]
+            },
+            "ctag": {
+                "cui": [
+                    "C0536940"
+                ],
+                "score": 0.0057103019999999996,
+                "label_semantic_types": "biologically active substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT00874250"
+                ]
+            },
+            "antihypertensive drugs": {
+                "cui": [
+                    "C0003364",
+                    "C2879510"
+                ],
+                "score": 0.00402012,
+                "label_semantic_types": "pharmacologic substance|injury or poisoning",
+                "label_ncts_counts": 2,
+                "ncts": [
+                    "NCT01670903",
+                    "NCT04224675"
+                ]
+            },
+            "atenolol": {
+                "cui": [
+                    "C0004147"
+                ],
+                "score": 0.003889,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04224675"
+                ]
+            },
+            "beta-blocker": {
+                "cui": [
+                    "C0001645"
+                ],
+                "score": 0.00185065,
+                "label_semantic_types": "pharmacologic substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT04224675"
+                ]
+            },
+            "rosuvastatin": {
+                "cui": [
+                    "C0965129"
+                ],
+                "score": 0.00164946,
+                "label_semantic_types": "pharmacologic substance|organic chemical",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03061487"
+                ]
+            },
+            "il-6": {
+                "cui": [
+                    "C0021760"
+                ],
+                "score": 0.00145836,
+                "label_semantic_types": "pharmacologic substance|biologically active substance",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03073889"
+                ]
+            },
+            "vitamin k antagonist": {
+                "cui": [
+                    "C2267235",
+                    "C1096489"
+                ],
+                "score": 0.00130447,
+                "label_semantic_types": "pharmacologic substance|therapeutic or preventive procedure",
+                "label_ncts_counts": 1,
+                "ncts": [
+                    "NCT03285100"
+                ]
+            }
+        }
+    }
+}
