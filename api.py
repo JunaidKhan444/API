@@ -33,10 +33,16 @@ def file_names():
   fpath = os.getcwd()
   files = os.listdir(fpath)
   files.remove('api.py')
+  files.remove('merged.json')
   files.remove('new.py')
   files.remove('.git')
   return files
 
+# Allowed Extensions
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+# Returns Dictionary
 def json_data(name):
    with open(name,'r') as h:
     #json_string = h.read()
@@ -44,14 +50,12 @@ def json_data(name):
     return jdata
 
 
-def allowed_file(filename):
-    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-
+# Simple Flask APP
 app = Flask(__name__)
 
 
-
+#Showing Files in Current Working Directory
 @app.route('/home',methods = ['GET'])
 def show_files():
   files = file_names()
@@ -59,18 +63,15 @@ def show_files():
 
 
 
+#Finding Cui Number for Specified Diseases
+@app.route('/<disease>',methods=['GET'])
+def find_value(disease):
+  jdata = json_data('merged.json')
+  for key in jdata:
+    if key == disease:
+      return jsonify (jdata[key]['cui'])
 
-@app.route('/find/<disease>/<ncts>',methods=['GET'])
-def find_value(name,have_had,disease,ncts):
-  jdata = json_data(name)
-  for keylist in jdata:
-    for keys in jdata[keylist]:
-      if keys == 'have_had':
-        return jsonify(jdata[keylist][keys][disease]['ncts'])
-      elif keys == 'looking_for':
-        return jsonify(jdata[keylist][keys][disease]['ncts'])
-
-
+#Merging Exitting JSON files in Current Directory
 @app.route('/content', methods = ['GET'])
 def add_data():
   jdata = json_data('merged.json')
@@ -100,7 +101,7 @@ def show_content():
   return jsonify('Successfully Merged Files')
 
 
-
+#Uploading Single or Multiple XML Files.
 @app.route('/upload', methods = ['POST'])
 def post_file():
   if request.method == 'POST':
@@ -121,7 +122,7 @@ def post_file():
     else:
       return jsonify('Files Uploaded Successfully')
 
-
+#Converting Uploaded XML files into CSV format.
 @app.route('/tocsv',methods = ['GET'])
 def tocsv():
   files = os.listdir(Upload_Folder)
@@ -142,17 +143,14 @@ def tocsv():
     xml_data.close()
   return jsonify('Uploaded File Converted to CSV Successfully')
 
-
+#Converting CSV to Json format
 @app.route('/tojson',methods = ['GET'])
 def tojson():
   files = os.listdir(To_csv_Folder)
-  
   for filename in files:
-    
     with open(os.path.join(To_csv_Folder, filename), 'r') as f1:
        l1 = {}
        l2 = {}
-
        data = {}
        first_key = ''
        r1 = csv.DictReader(f1)
@@ -188,9 +186,6 @@ def tojson():
                                            }
        data[first_key]['have_had'] = l1
        data[first_key]['looking_for'] = l2
-                
-        #print(data)
-       
        new_filename = filename.rstrip('.csv')
        with open(os.path.join(To_json_Folder,new_filename+'.json'),'w') as f2:
            f2.write(json.dumps(data,indent=4))
